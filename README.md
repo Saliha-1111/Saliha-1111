@@ -42,7 +42,7 @@
 
 ---
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:style="width:80px;"}
 
 
 ### 📈 GitHub Stats
