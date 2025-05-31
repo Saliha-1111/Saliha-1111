@@ -43,7 +43,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Saliha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saliha-1111&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saliha-1111&show_icons=true&theme=tokyonight" height="150"/>
