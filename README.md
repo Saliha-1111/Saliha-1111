@@ -49,6 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Saliha-1111&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saliha-1111&layout=compact&theme=tokyonight" height="150"/>
 </p>
+![Visitor Count](https://komarev.com/ghpvc/?username=Saliha-1111&color=blue)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saliha-1111&color=blue" alt="Profile views" />
