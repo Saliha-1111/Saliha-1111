@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Saliha 👋</h1>
+<h1 align="center">Hi there, I'm Saliha Naseer👋</h1>
 
 <p align="center">
   <em>Software Engineer | Machine Learning Enthusiast | Frontend Learner</em>
@@ -42,7 +42,8 @@
 
 ---
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){:style="width:80px;"}
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80px">
+
 
 
 ### 📈 GitHub Stats
